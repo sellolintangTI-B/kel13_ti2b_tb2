@@ -23,7 +23,7 @@ const ContactPage = () => (
                         ></iframe>
                     </div>
                     <div className="form-messege" id="maps-messege">
-                        <form action="/submit-form" method="POST">
+                        <form action="#">
                             <div className="form-group">
                                 <input
                                     type="text"
